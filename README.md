@@ -1,5 +1,5 @@
-# GEOCODER
+# ICE CREAM DB
 
 ### Overview
 
-This is a simple node.js app that run in console with inquirer that let you search any address using google NodeGeocoder search api.
+This is a simple node.js app that will connect to a MYSQL localhost database.
