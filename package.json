@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "mysql": "^2.16.0"
+    "mysql": "^2.18.0"
   }
 }
